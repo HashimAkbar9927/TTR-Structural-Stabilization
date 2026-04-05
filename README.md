@@ -17,10 +17,13 @@ To determine how a chlorinated triazole ligand stabilizes the TTR tetramer.
 - Software Suite: CCP4
 
 ## Workflow
-(Insert workflow image here)
+![image](https://github.com/user-attachments/assets/31753488-8abe-40f9-9a74-a891bfa0c3d9)
+
+
 
 ## Results
-(Insert PyMOL structure image here)
+<img width="307" height="168" alt="image" src="https://github.com/user-attachments/assets/36f5cf08-d9f0-4072-84db-35388d2f2c0d" />
+
 
 ## Key Findings
 - Ligand binds at dimer–dimer interface
