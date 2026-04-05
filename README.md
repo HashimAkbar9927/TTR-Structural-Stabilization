@@ -17,7 +17,7 @@ To determine how a chlorinated triazole ligand stabilizes the TTR tetramer.
 - Software Suite: CCP4
 
 ## Workflow
-![Workflow](workflow.png)
+![Workflow](workflow.jpg)
 
 
 
