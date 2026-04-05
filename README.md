@@ -17,12 +17,12 @@ To determine how a chlorinated triazole ligand stabilizes the TTR tetramer.
 - Software Suite: CCP4
 
 ## Workflow
-![image](https://github.com/user-attachments/assets/31753488-8abe-40f9-9a74-a891bfa0c3d9)
+![Workflow](workflow.png)
 
 
 
 ## Results
-<img width="307" height="168" alt="image" src="https://github.com/user-attachments/assets/36f5cf08-d9f0-4072-84db-35388d2f2c0d" />
+![TTR Structure](pymol_ttr.png)
 
 
 ## Key Findings
