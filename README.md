@@ -47,3 +47,6 @@ This study demonstrates that divalent ligands can effectively stabilize TTR by l
 - Protein modeling and refinement
 - Molecular visualization
 - Use of CCP4 crystallography tools
+
+## 📄 Full Report
+Detailed report available here: [View Report](report.pdf)
